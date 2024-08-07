@@ -2,4 +2,4 @@
 
 Small REST API implemented in Spring from [this course](https://spring.academy/courses/building-a-rest-api-with-spring-boot).
 
-You can implement by following along 
+You can implement this by following along.
